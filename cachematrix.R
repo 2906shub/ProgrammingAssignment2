@@ -1,5 +1,3 @@
-## Put comments here that give an overall description of what your
-## 
 ## My aim in this experiment is to write a pair of functions, namely, 
 ## "makeCacheMatrix" and "cacheSolve" that cache the inverse of a matrix
 
